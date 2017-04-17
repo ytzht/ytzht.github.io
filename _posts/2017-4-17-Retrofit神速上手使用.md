@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Retrofit神速上手使用！
+title:      Retrofit神速上手使用
 subtitle:   这个纯干货
 date:       2017-4-17
 author:     ZHT
