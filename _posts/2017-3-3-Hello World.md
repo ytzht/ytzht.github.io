@@ -78,7 +78,7 @@ ___
 表示水平分割线
 
 
-![](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png)
+![百度Logo](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png)
 
 Email 链接用尖括号括起来：<1176692275@qq.com>
 
