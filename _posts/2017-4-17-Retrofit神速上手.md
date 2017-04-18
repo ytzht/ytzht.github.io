@@ -4,7 +4,7 @@ title:      Retrofit神速上手
 subtitle:   这个纯干货
 date:       2017-4-17
 author:     ZHT
-header-img: img/post-bg-miui6.jpg
+header-img: img/home-bg-art.jpg
 catalog: true
 tags:
     - Android
