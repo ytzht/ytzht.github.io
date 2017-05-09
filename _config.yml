@@ -55,12 +55,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: ytzht
+#disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-# duoshuo_username: ytzhtgithub
+duoshuo_username: ytzhtgithub
 # Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -93,7 +93,7 @@ service-worker: true
 friends: [
     {
         title: "top",
-        href: "http://ytzht.top"
+        href: "https://ytzht.top"
     },{
         title: "新浪微博",
         href: "http://weibo.com/u/3061569425"
