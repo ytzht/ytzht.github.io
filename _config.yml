@@ -55,7 +55,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: ytzht
 
 # Duoshuo settings
 # duoshuo_username: ytzhtgithub
@@ -93,7 +93,7 @@ service-worker: true
 friends: [
     {
         title: "top",
-        href: "https://ytzht.top"
+        href: "http://ytzht.top"
     },{
         title: "新浪微博",
         href: "http://weibo.com/u/3061569425"
