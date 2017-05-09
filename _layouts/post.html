@@ -131,18 +131,7 @@ layout: default
                 {% endif %}
 
             </div>  
-<div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
-<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
-<script">
-var cloudTieConfig = {
-  url: document.location.href, 
-  sourceId: "",
-  productKey: "1c17cac2e1f44343b9519e9595708483",
-  target: "cloud-tie-wrapper"
-};
-var yunManualLoad = true;
-Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
-</script>
+
     <!-- Side Catalog Container -->
         {% if page.catalog %}
             <div class="
@@ -194,6 +183,22 @@ Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true)
                 </ul>
                 {% endif %}
             </div>
+			
+			
+			<div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
+<script">
+var cloudTieConfig = {
+  url: document.location.href, 
+  sourceId: "",
+  productKey: "1c17cac2e1f44343b9519e9595708483",
+  target: "cloud-tie-wrapper"
+};
+var yunManualLoad = true;
+Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
+</script>
+
+
         </div>
     </div>
 </article>
