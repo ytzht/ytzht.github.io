@@ -147,8 +147,5 @@ showErrorView(new StatusViewConfig.StatusViewBuild(getContext())
 
 同样功能的 Layout 可能在不同的业务场景下实现方式也会有很大的区别，所以不论哪种实现方式，无所谓好坏，只要适合就好。但是开发此类 Layout 要遵循的基本准则、以及要注意的点应该大都相同，希望此文可以给你一些启示帮助。
 
-> 本文原创发布于公众号 大侠咕咚，欢迎扫码关注更多原创文章。
-> ![大侠咕咚](http://upload-images.jianshu.io/upload_images/588640-20fdcda8075edb5d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 
