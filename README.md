@@ -1,10 +1,6 @@
-# BY Blog 模板
+# Blog 模板
 
-这个README我直接拿[Hux](https://github.com/Huxpro/huxpro.github.io)的来修改了。😅
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
-
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
+这个README我直接拿[Hux](https://github.com/Huxpro/huxpro.github.io)的来修改
 
 ## 使用
 
@@ -39,12 +35,12 @@
 
 ```
 # Site settings
-title: Hux Blog             # 你的博客网站标题
-SEOTitle: Hux Blog			# 在后面会详细谈到
+title: zht Blog             # 你的博客网站标题
+SEOTitle: zht Blog			# 在后面会详细谈到
 description: "Cool Blog"    # 随便说点，描述一下
 
 # SNS settings      
-github_username: huxpro     # 你的github账号
+github_username: ytzht   # 你的github账号
 weibo_username: huxpro      # 你的微博账号，底部链接会自动更新的。
 
 # Build settings
@@ -63,13 +59,12 @@ yaml 头文件长这样:
 ---
 layout:     post
 title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
+subtitle:   定时器详解
 date:       2016-12-13
 author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
-    - iOS
     - 定时器
 ---
 
