@@ -1,9 +1,14 @@
 ---
-title: 搭建Github Pages个人博客网站
-layout: post
-tags: github-pages jekyll
-categories: 网站
-excerpt: Jekyll搭建Github Pages个人博客
+layout:     post
+title:      搭建Github Pages个人博客网站
+subtitle:   Jekyll搭建Github Pages个人博客
+date:       2019-3-28
+author:     ZHT
+header-img: img/post-bg-blue.jpg
+catalog: true
+tags:
+    - 网站
+    - github
 ---
 ### 目录 <span id="home">
 
